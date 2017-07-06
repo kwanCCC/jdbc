@@ -1,0 +1,10 @@
+*.settings/
+*target/
+*.project
+*.classpath
+.DS_Store
+/target/
+.idea/
+druid-sql.iml
+DruidLexer.tokens
+_build/
