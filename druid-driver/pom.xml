@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.blueocn.druid</groupId>
+        <groupId>org.doraemon.treasure</groupId>
         <artifactId>jdbc-support</artifactId>
         <version>0.0.23-SNAPSHOT</version>
     </parent>
