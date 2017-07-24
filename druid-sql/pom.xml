@@ -2,14 +2,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.blueocn.druid</groupId>
+        <groupId>org.doraemon.treasure</groupId>
         <artifactId>jdbc-support</artifactId>
-        <!-- original version before moved here <version>0.0.7-druid-0.7.x-r21-SNAPSHOT</version>-->
         <version>0.0.23-SNAPSHOT</version>
     </parent>
 
     <artifactId>druid-sql</artifactId>
-    <!--<version>0.0.7-druid-1.7.x-r19-SNAPSHOT</version>-->
     <name>Druid SQL Engine</name>
     <description>Druid.io</description>
 
